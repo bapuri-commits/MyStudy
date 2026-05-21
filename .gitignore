@@ -7,3 +7,8 @@
 # OS 부산물
 .DS_Store
 Thumbs.db
+
+# 플러그인 바이너리 (옵시디언이 자동 재설치)
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+.obsidian/plugins/*/manifest.json
