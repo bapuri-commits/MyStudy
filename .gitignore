@@ -1,0 +1,9 @@
+# Obsidian 머신별 상태 (충돌 유발)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# OS 부산물
+.DS_Store
+Thumbs.db
